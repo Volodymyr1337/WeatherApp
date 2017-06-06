@@ -1,0 +1,10 @@
+C:\Users\Volodymyr\Documents\Visual Studio 2017\Projects\Weather app\Weather app\bin\Release\Weather app.exe.config
+C:\Users\Volodymyr\Documents\Visual Studio 2017\Projects\Weather app\Weather app\bin\Release\Weather app.exe
+C:\Users\Volodymyr\Documents\Visual Studio 2017\Projects\Weather app\Weather app\bin\Release\Weather app.pdb
+C:\Users\Volodymyr\Documents\Visual Studio 2017\Projects\Weather app\Weather app\bin\Release\Newtonsoft.Json.dll
+C:\Users\Volodymyr\Documents\Visual Studio 2017\Projects\Weather app\Weather app\bin\Release\Newtonsoft.Json.xml
+C:\Users\Volodymyr\Documents\Visual Studio 2017\Projects\Weather app\Weather app\obj\Release\Weather_app.Form1.resources
+C:\Users\Volodymyr\Documents\Visual Studio 2017\Projects\Weather app\Weather app\obj\Release\Weather_app.Properties.Resources.resources
+C:\Users\Volodymyr\Documents\Visual Studio 2017\Projects\Weather app\Weather app\obj\Release\Weather app.csproj.GenerateResource.Cache
+C:\Users\Volodymyr\Documents\Visual Studio 2017\Projects\Weather app\Weather app\obj\Release\Weather app.exe
+C:\Users\Volodymyr\Documents\Visual Studio 2017\Projects\Weather app\Weather app\obj\Release\Weather app.pdb
